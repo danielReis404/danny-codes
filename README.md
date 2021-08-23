@@ -12,7 +12,7 @@
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Dan-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" height="250" width="250" alt="Dan-Naruto" src="https://th.bing.com/th/id/R.1c2420276deace41f5f510b818756b7d?rik=AlL5Ap%2bTjQ32%2bw&riu=http%3a%2f%2forig11.deviantart.net%2f6454%2ff%2f2013%2f119%2f9%2f6%2fcute_naruto_by_anniiskittles-d63jqpt.gif&ehk=sSVm4QaLzBJWWzd%2fwmXPDBMAt55jytW%2fFx8ZtgCoJWQ%3d&risl=&pid=ImgRaw&r=0">
+  <img align="right" height="150" width="200" alt="Dan-Naruto" src="https://th.bing.com/th/id/R.1c2420276deace41f5f510b818756b7d?rik=AlL5Ap%2bTjQ32%2bw&riu=http%3a%2f%2forig11.deviantart.net%2f6454%2ff%2f2013%2f119%2f9%2f6%2fcute_naruto_by_anniiskittles-d63jqpt.gif&ehk=sSVm4QaLzBJWWzd%2fwmXPDBMAt55jytW%2fFx8ZtgCoJWQ%3d&risl=&pid=ImgRaw&r=0">
 </div>
   
   <hr>
