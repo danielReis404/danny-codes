@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/danielReis404">
   <img height="180em" src="https://github-readmestats.vercel.app/apiusername=danielReis404&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamedanielReis404&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielReis404&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
